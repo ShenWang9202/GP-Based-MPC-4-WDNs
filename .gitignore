@@ -1,0 +1,5 @@
+*.DS_Store
+*.png
+EPANET-Matlab-Toolkit/networks/*.txt
+EPANET-Matlab-Toolkit/networks/*_temp.inp
+*.mat

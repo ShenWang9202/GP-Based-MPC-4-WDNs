@@ -1,0 +1,2 @@
+XXSOLVE(TankHeadIndexInVar,:)
+XXSOLVE(PumpSpeedIndexInVar,:)
